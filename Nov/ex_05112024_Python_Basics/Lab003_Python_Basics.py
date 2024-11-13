@@ -1,0 +1,5 @@
+print("Hello World")
+print("Bhargav Bolisetty")
+print("bhargav",123,"Amit","john")
+print("bhargav",123,"Amit","john", sep='*',end="    ")
+print("bhargav",123,"Amit","john", sep='*')
